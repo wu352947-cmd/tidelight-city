@@ -1,0 +1,9 @@
+node_modules/
+dist/
+ref/
+BRIEF.md
+DESIGN_carbon.md
+shots/*.tmp.png
+.DS_Store
+*.log
+.vite/
